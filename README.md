@@ -1,5 +1,7 @@
 # Movie App
 
+[Live Demo - Movie App](https://movie-app-one-eta-78.vercel.app/)
+
 This project is a web application that allows users to search for movies and view trending titles. It leverages The Movie Database (TMDb) API for fetching movie data and Appwrite for backend services. The application is built using React and Vite, ensuring a fast and responsive user experience.
 
 ## Features
